@@ -1,2 +1,2 @@
-# jsUtils
-utility functions for various usecases in js
+# FuncNests
+utility functions for various useCases in js
