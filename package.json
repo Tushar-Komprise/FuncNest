@@ -1,0 +1,25 @@
+{
+  "name": "funcnest",
+  "version": "1.0.1",
+  "description": "util functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tushar-Komprise/FuncNest.git"
+  },
+  "keywords": [
+    "maths",
+    "js",
+    "utils",
+    "utility"
+  ],
+  "author": "tushar tyagi",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Tushar-Komprise/FuncNest/issues"
+  },
+  "homepage": "https://github.com/Tushar-Komprise/FuncNest#readme"
+}
